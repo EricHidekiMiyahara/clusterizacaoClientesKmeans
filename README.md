@@ -26,6 +26,10 @@ Você pode acessá-lo [aqui](https://colab.research.google.com/drive/1M_aAXWQcgO
 
 Aqui você decide como rodar seu próprio projeto.
 
+1. Primeiramente, você vai ter que ir no arquivo "ClusterizacaoClientes.ipynb".
+2. Segundamente, clique em Open in Colab para abrir o arquivo no Google Colab.
+3. Por fim, não é necessário você rodar o 1º e o 2º exemplo, pois já vai estar apresentado os gráficos correspondentes. Mas, você pode alterar o valor de clusters máximo na variável "limite_k" para enfim verificar como que esse valor afeta no gráfico como todo.
+
 <h2 id="technologies">Tecnologias utilizadas</h2>
 
 - **Python:** Linguagem de programação
@@ -37,7 +41,7 @@ Agradeço a contribuição para o projeto. Se você está corrigindo um bug, adi
 
 1. **Criar uma nova funcionalidade**
 
-Você pode criar mais variáveis para aquela empresa.
+Você pode criar mais variáveis para a empresa ou criar mais exemplos de uso do algoritmo K-Means.
 
 2. **Siga os padrões de codificação**
 
