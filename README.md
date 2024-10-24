@@ -20,7 +20,7 @@
 
 Usei o algoritmo de K-means clustering para segmentar clientes de uma empresa fictícia com base em duas variáveis: renda anual e gastos anuais. Implementei a abordagem utilizando a biblioteca Scikit-Learn na linguagem de programação Python, destacando o processo de inicialização dos centróides, atribuição de clientes e ajuste dos centróides até a convergência do modelo.
 
-Você pode acessá-lo [aqui](https://colab.research.google.com/drive/1M_aAXWQcgOmT5G_eYUqj_T5ksr09ppR2?usp=sharing).
+Você pode acessá-lo [aqui](https://colab.research.google.com/gist/EricHidekiMiyahara/83af4e3f8340490643e418f22ff55169/clusterizacaoclientes.ipynb).
 
 <h2 id="started">Instrução de uso</h2>
 
@@ -53,5 +53,5 @@ Irei rever a sua solicitação de pull. Participe da discussão e faça as alter
 
 <h3 id="links">Links Úteis</h3>
 
-- [Projeto](https://colab.research.google.com/drive/1M_aAXWQcgOmT5G_eYUqj_T5ksr09ppR2?usp=sharing)
+- [Projeto](https://colab.research.google.com/gist/EricHidekiMiyahara/83af4e3f8340490643e418f22ff55169/clusterizacaoclientes.ipynb)
 - [Artigo](https://www.linkedin.com/feed/update/urn:li:activity:7251697145542549504/)
