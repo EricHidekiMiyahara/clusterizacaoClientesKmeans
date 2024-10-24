@@ -10,8 +10,8 @@
 
 <p align="center">
  <a href="#about">Sobre</a> • 
- <a href="#technologies">Tecnologias utilizadas</a> •
  <a href="#started">Instrução de uso</a> •
+ <a href="#technologies">Tecnologias utilizadas</a> •
  <a href="#contribute">Contribuição</a> •
  <a href="#links">Links úteis</a> 
 </p>
