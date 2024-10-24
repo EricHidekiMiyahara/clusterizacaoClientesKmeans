@@ -11,6 +11,7 @@
 <p align="center">
  <a href="#about">Sobre</a> • 
  <a href="#technologies">Tecnologias utilizadas</a> •
+ <a href="#started">Instrução de uso</a> •
  <a href="#contribute">Contribuição</a> •
  <a href="#links">Links úteis</a> 
 </p>
@@ -20,6 +21,10 @@
 Usei o algoritmo de K-means clustering para segmentar clientes de uma empresa fictícia com base em duas variáveis: renda anual e gastos anuais. Implementei a abordagem utilizando a biblioteca Scikit-Learn na linguagem de programação Python, destacando o processo de inicialização dos centróides, atribuição de clientes e ajuste dos centróides até a convergência do modelo.
 
 Você pode acessá-lo [aqui](https://colab.research.google.com/drive/1M_aAXWQcgOmT5G_eYUqj_T5ksr09ppR2?usp=sharing).
+
+<h2 id="started">Instrução de uso</h2>
+
+Aqui você decide como rodar seu próprio projeto.
 
 <h2 id="technologies">Tecnologias utilizadas</h2>
 
