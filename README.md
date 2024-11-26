@@ -1,4 +1,4 @@
-<h1>Clusterização de Clientes com o algoritmo Kmeans</h1>
+<h1>Clusterização de Clientes com o algoritmo K-means</h1>
 
 [PYTHON]: https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
 [COLAB]: https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252
